@@ -10,6 +10,7 @@ public class Tc1Test
 	{
 		Reporter.log("m1 passed",true);
 		Reporter.log("m10 passed",true);
+		Reporter.log("m100 passed",true);
 	}
 
 }
