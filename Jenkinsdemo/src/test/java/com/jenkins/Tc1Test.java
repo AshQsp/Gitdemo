@@ -9,6 +9,7 @@ public class Tc1Test
 	public void m1()
 	{
 		Reporter.log("m1 passed",true);
+		Reporter.log("m10 passed",true);
 	}
 
 }
